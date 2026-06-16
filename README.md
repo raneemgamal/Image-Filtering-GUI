@@ -166,4 +166,3 @@ Egyptian Chinese University (ECU)
 - Interactive Image Arithmetic Operations
 - Multiple Artistic and Enhancement Filters
 - Suitable for Academic and Portfolio Demonstrations
-# Image-Filtering-GUI
