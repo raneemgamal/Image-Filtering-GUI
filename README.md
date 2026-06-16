@@ -96,3 +96,4 @@ python main.py
 Artificial Intelligence Student  
 Egyptian Chinese University (ECU)
 # Image-filter-project
+# Image-Filtering-GUI
